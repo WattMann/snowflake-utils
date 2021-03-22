@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/snowflake-utils.dir/src/snowflake.cpp.o -o snowflake-utils 

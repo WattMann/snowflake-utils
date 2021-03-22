@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/martin/dev/projects/snowflake-utils/src/snowflake.cpp
+cstdio
+-
+ctime
+-
+string
+-
+inttypes.h
+-
+
