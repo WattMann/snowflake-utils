@@ -1,3 +1,0 @@
-/home/martin/dev/projects/snowflake-utils/build/CMakeFiles/rebuild_cache.dir
-/home/martin/dev/projects/snowflake-utils/build/CMakeFiles/edit_cache.dir
-/home/martin/dev/projects/snowflake-utils/build/CMakeFiles/snowflake-utils.dir
